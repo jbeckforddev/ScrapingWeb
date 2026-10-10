@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.vscode/
+
+# Node.js lockfiles
+package-lock.json
+npm-shrinkwrap.json
+yarn.lock
+pnpm-lock.yaml
+bun.lock
+bun.lockb
+
+# Other package-manager lockfiles
+composer.lock
+Gemfile.lock
+Pipfile.lock
+poetry.lock
+uv.lock
+Cargo.lock
